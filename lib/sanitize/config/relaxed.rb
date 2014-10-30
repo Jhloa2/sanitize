@@ -290,6 +290,7 @@ class Sanitize
           -webkit-region-break-before
           -webkit-region-break-inside
           -webkit-region-fragment
+          -webkit-rtl-ordering
           -webkit-shape-inside
           -webkit-shape-margin
           -webkit-shape-outside
@@ -300,6 +301,9 @@ class Sanitize
           -webkit-text-decoration-color
           -webkit-text-decoration-line
           -webkit-text-decoration-style
+          -webkit-text-fill-color
+          -webkit-text-security
+          -webkit-text-size-adjust
           -webkit-touch-callout
           -webkit-transform
           -webkit-transform-origin
@@ -313,6 +317,8 @@ class Sanitize
           -webkit-transition-property
           -webkit-transition-timing-function
           -webkit-user-drag
+          -webkit-user-modify
+          -webkit-user-select
           -webkit-wrap-flow
           -webkit-wrap-through
           align-content
